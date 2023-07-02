@@ -9,4 +9,3 @@ console.log(decimalToBinary(33));
   
 
 
-window.decimalToBinary = decimalToBinary;
